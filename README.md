@@ -5,11 +5,8 @@ This project is a simple video player that allows users to play background video
 
 
 ## Video Demonstration
+https://github.com/user-attachments/assets/fc4eccbc-7586-4dd8-82f3-4c81c0c3e268
 
-<video width="640" height="360" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
